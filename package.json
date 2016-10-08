@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-nativeinput",
+  "version": "0.0.1",
+  "description": "Add Native Input Field below the WebView that contains: leftButton - inputField - rightButton",
+  "cordova": {
+    "id": "cordova-plugin-nativeinput",
+    "platforms": [
+      "ios", "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emadello/input-plugin.git"
+  },
+  "keywords": [
+	"ecosystem:cordova",
+    "cordova",
+    "input",
+    "chat",
+    "native"
+  ],
+  "author": "Lifetime.com.eg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emadello/input-plugin/issues"
+  },
+  "homepage": "https://github.com/Emadello/input-plugin#readme"
+}

@@ -1,4 +1,8 @@
-# AppGyver Native Input Plugin
+Install:
+
+cordova plugin add cordova-plugin-nativeinput
+
+# forked from AppGyver Native Input Plugin
 
 This plugin renders a native view (panel) at the bottom of the webview that contains:
  | leftButton - inputField - rightButton |

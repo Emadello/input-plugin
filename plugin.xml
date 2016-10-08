@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.appgyver.plugins.nativeinput" version="0.0.1">
+        id="eg.com.Lifetime.plugins.nativeinput" version="0.0.1">
     <name>NativeInput</name>
-    <description>AppGyver Native Input Plugin - This plugin adds a native input field below the webview and is always
+    <description>Cordova Native Input Plugin - forked from AppGyver Native Input Plugin - This plugin adds a native input field below the webview and is always
     visible even when displaying the keyboard.
     </description>
     <keywords></keywords>
